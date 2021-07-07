@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode stuff
+.vscode
+
+# personal datasets
+datasets/
+
+# personal analysis
+QH33_analysis.py
+qh8154_analysis.py
+benford_analysis.py
+benford.py
+groups.py
+__strains_and_landmarks.py
+models.py
