@@ -7,4 +7,4 @@ Parameters are easily adaptable for other .csv file structures, feel free to use
 Email me if you have any questions or feedback.
 
 Cheers,
-Igpr
+Igor
